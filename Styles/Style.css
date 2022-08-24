@@ -71,6 +71,10 @@ body{
   padding-bottom: 3rem;
 }
 
+img.avatar{
+  border-radius: 10% 10% 0 0;
+}
+
 /* End Nav */
 
 .about__text{
